@@ -7,6 +7,8 @@ Home for small scripts
     
 Can be executed to open a terminal with diffrent tabs and tasks
 
+## Windows
+
 #### HardLinkConfig
 
 Creates a hardlink to a savegame location to save storage on c:
